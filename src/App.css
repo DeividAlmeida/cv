@@ -1,0 +1,113 @@
+#root {
+  max-width: 1280px;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.ant-timeline-item-content {
+  width: 150% !important;
+}
+
+.ant-timeline-item-label {
+  font-size: 11px;
+}
+
+.skills > li {
+  text-transform: uppercase;
+  margin-bottom: 12px
+}
+
+.skills > li > span {
+  text-transform: lowercase;
+  border-radius: 50px;
+  padding: 5px;
+}
+
+.node > span {
+  background-color: #3c873a;
+  color: #fff;
+}
+
+.express > span {
+  background-color: #000;
+  color: #fff;
+}
+
+.react > span {
+  background-color: #61dafb;
+}
+
+.vue > span {
+  background-color: #41b883;
+}
+
+.angular > span {
+  background-color: #dd0031;
+  color: #fff;
+}
+
+.php > span {
+  background-color: #8892be;
+}
+
+.laravel > span {
+  background-color: #ff2d20;
+  color: #fff;
+}
+
+.react-native > span {
+  background-color: #61dafb;
+}
+
+.mongodb > span {
+  background-color: #4db33d;
+}
+
+.aws > span {
+  background-color: #ff9900;
+}
+
+.postgresql > span {
+  background-color: #336791;
+  color: #fff;
+}
+
+.mysql > span {
+  background-color: #00758f;
+  color: #fff;
+}
