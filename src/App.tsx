@@ -12,7 +12,7 @@ function App() {
           }}>
             <p>
               <h1>Deivid Almeida</h1>
-              <h3>Desenvolvedor Full Stack</h3>
+              <h3>Desenvolvedor Engenheiro de Software</h3>
             </p>
           </center>
         </Col>
@@ -69,7 +69,39 @@ function App() {
                   }}>{'Experiencias profissionais'}</h2>,
                 },
                 {
-                  label: '2023-09 - atualmente',
+                  label: '2025-01 - atualmente',
+                  color: '#003D74',
+                  children: (
+                    <div>
+                      <h3>Engenheiro de Software</h3>
+                      <i>Fully Ecosystem, Remoto</i>
+                      <p>
+                        <ul>
+                          <li style={{marginRight: "10vh"}}>Trabalho no desenvolvimento e manutenção de microsserviços usando NestJS e bancos de dados como MongoDB e PostgreSQL.</li>
+                          <li>Participo ativamente de cerimônias do Scrum, incluindo sessões de planejamento e revisões de código.</li> 
+                          <li>Dou suporte a desenvolvedores juniores, contribuo com a análise e resolução de bugs e utilizo o AWS CloudWatch para monitoramento e observabilidade de nossos microsserviços não orquestrados.</li>
+                        </ul>
+                      </p>
+                      <b>Tecnologias usadas:</b>
+                      <p>
+                        <ul>
+                          <li>NestJs</li> 
+                          <li>MongoDB</li>
+                          <li>PostgreSQL</li>
+                          <li>AWS ECS</li>
+                          <li>AWS Route 53</li> 
+                          <li>AWS CloudWatch</li> 
+                          <li>AWS RDS</li>
+                          <li>Jenkins</li> 
+                          <li>Redis</li> 
+                          <li>TypeScript</li>  
+                        </ul>
+                      </p>
+                    </div>
+                  ),
+                },
+                {
+                  label: '2023-09 - 2025-01',
                   color: '#003D74',
                   children: (
                     <div>
@@ -350,7 +382,7 @@ function App() {
           <Col span={8} style={{
             textAlign: 'start',
           }}>
-            <img height={250} width={250} src="https://media.licdn.com/dms/image/v2/D4D03AQENj--5X-JHXA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713965412924?e=1739404800&v=beta&t=flEhWG3Wtetx_tE1g7sOHffbDE1mL9ndSl7vueHKBR0" alt="Deivid Almeida" />
+            <img height={250} width={250} src="https://media.licdn.com/dms/image/v2/D4D03AQENj--5X-JHXA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713965412924?e=1752710400&v=beta&t=b9KfmL4cJffJLSXxAU9pw5HhYUYaZ09loCHB3C8JxU4" alt="Deivid Almeida" />
             <p className="profile">
               <h2>
                 <center style={{
