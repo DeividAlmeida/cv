@@ -111,3 +111,8 @@
   background-color: #00758f;
   color: #fff;
 }
+
+.jest > span {
+  background-color: #15c213;
+  color: #fff;
+}
