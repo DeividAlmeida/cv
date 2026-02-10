@@ -90,8 +90,8 @@
   color: #fff;
 }
 
-.react-native > span {
-  background-color: #61dafb;
+.redis > span {
+  background-color: #ff4438;
 }
 
 .mongodb > span {
