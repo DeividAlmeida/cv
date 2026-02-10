@@ -404,11 +404,9 @@ function App() {
           }}>
             <p>
               <h2>
-                <center style={{
-                  width: '28vh',
-                }}>
+                <p>
                   <ThunderboltFilled /> Competências
-                </center>
+                </p>
               </h2>
               <p>
                 <ul className="skills">
@@ -431,11 +429,9 @@ function App() {
             <br/>
             <p className="profile">
               <h2>
-                <center style={{
-                  width: '28vh',
-                }}>
+                <p>
                   <IdcardFilled /> Perfil
-                </center>
+                </p>
               </h2>
               <h3>
                 E-mail
