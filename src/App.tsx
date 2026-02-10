@@ -87,7 +87,8 @@ function App() {
                         <ul>
                           <li>NestJs</li>
                           <li>Kotlin</li>
-                          <li>Spring Boot</li> 
+                          <li>Spring Boot</li>
+                          <li>Jest</li> 
                           <li>MongoDB</li>
                           <li>PostgreSQL</li>
                           <li>AWS ECS</li>
@@ -161,6 +162,7 @@ function App() {
                           <li>React Native</li>
                           <li>Angular +2</li>
                           <li>Express</li>
+                          <li>Jest</li>
                           <li>MongoDB</li>
                           <li>Git</li>
                         </ul>
@@ -438,6 +440,7 @@ function App() {
                   <li className="angular">Angular <span>4+ anos</span></li>
                   <li className="mysql">MySQL <span>4+ anos</span></li>
                   <li className="php">PHP <span>4+ anos</span></li>
+                  <li className="jest">Jest <span>3+ anos</span></li>
                   <li className="laravel">Laravel <span>3+ anos</span></li>
                   <li className="vue">Vue <span>3+ anos</span></li>
                   <li className="react-native">React Native <span>2+ anos</span></li>
