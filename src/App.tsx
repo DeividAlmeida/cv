@@ -384,7 +384,6 @@ function App() {
           <Col span={8} style={{
             textAlign: 'start',
           }}>
-            <img height={250} width={250} src="https://media.licdn.com/dms/image/v2/D4D03AQENj--5X-JHXA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713965412924?e=1752710400&v=beta&t=b9KfmL4cJffJLSXxAU9pw5HhYUYaZ09loCHB3C8JxU4" alt="Deivid Almeida" />
             <p className="profile">
               <h2>
                 <center style={{
@@ -408,6 +407,9 @@ function App() {
               <h3>
                 Linkedin
               </h3>
+              <span>
+                <a href="https://www.linkedin.com/in/deivid-almeida/" target="_blank" rel="noreferrer">https://www.linkedin.com/in/deivid-almeida/</a>
+              </span>
               <h3>
                 GitHub
               </h3>
