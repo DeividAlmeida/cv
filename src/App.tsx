@@ -96,7 +96,8 @@ function App() {
                           <li>AWS RDS</li>
                           <li>Jenkins</li> 
                           <li>Redis</li> 
-                          <li>TypeScript</li>  
+                          <li>TypeScript</li>
+                          <li>Git</li>
                         </ul>
                       </p>
                     </div>
@@ -128,7 +129,8 @@ function App() {
                           <li>AWS CloudWatch</li> 
                           <li>AWS Elastic Beanstalk</li> 
                           <li>AWS IAM (Identity and Access Management)</li> 
-                          <li>AWS Route 53</li> 
+                          <li>AWS Route 53</li>
+                          <li>Git</li>
                         </ul>
                       </p>
                     </div>
