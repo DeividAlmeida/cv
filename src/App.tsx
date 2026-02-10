@@ -79,7 +79,7 @@ function App() {
                         <ul>
                           <li style={{marginRight: "10vh"}}>Trabalho no desenvolvimento e manutenção de microsserviços usando NestJS e Spring Boot no Backend e bancos de dados como MongoDB e PostgreSQL.</li>
                           <li>Participo ativamente de cerimônias do Scrum, incluindo sessões de planejamento e revisões de código.</li> 
-                          <li>Dou suporte a desenvolvedores juniores, contribuo com a análise e resolução de bugs e utilizo o AWS CloudWatch para monitoramento e observabilidade de nossos microsserviços.</li>
+                          <li>Dou suporte a desenvolvedores juniores, contribuo com a análise e resolução de bugs e utilizo a AWS CloudWatch para monitoramento e observabilidade de nossos microsserviços.</li>
                         </ul>
                       </p>
                       <b>Tecnologias usadas:</b>
@@ -89,8 +89,8 @@ function App() {
                           <li>Kotlin</li>
                           <li>Spring Boot</li>
                           <li>Jest</li> 
-                          <li>MongoDB</li>
-                          <li>PostgreSQL</li>
+                          <li>MongoDB (Aggregation Pipelines)</li>
+                          <li>PostgreSQL (Indexing | Query Tuning) </li>
                           <li>AWS ECS</li>
                           <li>AWS Route 53</li> 
                           <li>AWS CloudWatch</li> 
@@ -163,7 +163,9 @@ function App() {
                           <li>Angular +2</li>
                           <li>Express</li>
                           <li>Jest</li>
-                          <li>MongoDB</li>
+                          <li>MongoDB (Aggregation Pipelines)</li>
+                          <li>PostgreSQL (Indexing | Query Tuning)</li>
+                          <li>Redis</li>
                           <li>Git</li>
                         </ul>
                       </p>
@@ -193,7 +195,7 @@ function App() {
                           <li>NodeJS</li>
                           <li>TypeScript</li>
                           <li>Express</li>
-                          <li>PostgreSQL</li>
+                          <li>PostgreSQL (Indexing | Query Tuning)</li>
                           <li>Git</li>
                         </ul>
                       </p>
@@ -222,7 +224,7 @@ function App() {
                           <li>Laravel</li>
                           <li>JavaScript ES6</li>
                           <li>PHP</li>
-                          <li>MySQL</li>
+                          <li>MySQL (Indexing | Query Tuning)</li>
                           <li>Git</li>
                         </ul>
                       </p>
@@ -250,7 +252,7 @@ function App() {
                         <ul>
                           <li>Vue.js</li>
                           <li>PHP</li>
-                          <li>MySQL</li>
+                          <li>MySQL (Indexing | Query Tuning)</li>
                           <li>Git</li>
                         </ul>
                       </p>
@@ -279,7 +281,7 @@ function App() {
                           <li>Vue.js</li>
                           <li>Express.js</li>
                           <li>Node.js</li>
-                          <li>MySQL</li>
+                          <li>MySQL (Indexing | Query Tuning)</li>
                           <li>Git</li>
                         </ul>
                       </p>
@@ -388,6 +390,32 @@ function App() {
           <Col span={8} style={{
             textAlign: 'start',
           }}>
+            <p>
+              <h2>
+                <center style={{
+                  width: '28vh',
+                }}>
+                  <ThunderboltFilled /> Competências
+                </center>
+              </h2>
+              <p>
+                <ul className="skills">
+                  <li className="node">Node.js <span>6+ anos</span></li>
+                  <li className="express">Express <span>6+ anos</span></li>
+                  <li className="react">React <span>5+ anos</span></li>
+                  <li className="mongodb">MongoDB <span>4+ anos</span></li>
+                  <li className="postgresql">PostgreSQL <span>4+ anos</span></li>
+                  <li className="aws">AWS <span>4+ anos</span></li>
+                  <li className="angular">Angular <span>4+ anos</span></li>
+                  <li className="mysql">MySQL <span>4+ anos</span></li>
+                  <li className="php">PHP <span>4+ anos</span></li>
+                  <li className="redis">Redis <span>3+ anos</span></li>
+                  <li className="jest">Jest <span>3+ anos</span></li>
+                  <li className="laravel">Laravel <span>3+ anos</span></li>
+                  <li className="vue">Vue <span>3+ anos</span></li>
+                </ul>
+              </p>
+            </p>
             <p className="profile">
               <h2>
                 <center style={{
@@ -420,32 +448,6 @@ function App() {
               <span>
                 <a href="https://github.com/DeividAlmeida" target="_blank" rel="noreferrer">https://github.com/DeividAlmeida</a>
               </span>              
-            </p>
-            <p>
-              <h2>
-                <center style={{
-                  width: '28vh',
-                }}>
-                  <ThunderboltFilled /> Competências
-                </center>
-              </h2>
-              <p>
-                <ul className="skills">
-                  <li className="node">Node.js <span>6+ anos</span></li>
-                  <li className="express">Express <span>6+ anos</span></li>
-                  <li className="react">React <span>5+ anos</span></li>
-                  <li className="mongodb">MongoDB <span>4+ anos</span></li>
-                  <li className="postgresql">PostgreSQL <span>4+ anos</span></li>
-                  <li className="aws">AWS <span>4+ anos</span></li>
-                  <li className="angular">Angular <span>4+ anos</span></li>
-                  <li className="mysql">MySQL <span>4+ anos</span></li>
-                  <li className="php">PHP <span>4+ anos</span></li>
-                  <li className="jest">Jest <span>3+ anos</span></li>
-                  <li className="laravel">Laravel <span>3+ anos</span></li>
-                  <li className="vue">Vue <span>3+ anos</span></li>
-                  <li className="react-native">React Native <span>2+ anos</span></li>
-                </ul>
-              </p>
             </p>
           </Col>
         </Row>
