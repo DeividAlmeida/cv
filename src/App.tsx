@@ -52,7 +52,7 @@ function App() {
                   color: '#003D74',
                   children: (
                     <p style={{marginRight: "10vh"}}>
-                      Com mais de 5 anos de experiência, contribuo direta e indiretamente para o desenvolvimento e aprimoramento de sistemas que atendem a mais de 30 negócios, com alto fluxo de acessos diários. Atuo com tecnologias como <b> Node.js, Express.js, PHP/Laravel, React.js, Angular, Vue.js, PostgreSQL, MongoDB, Docker e AWS.  </b>
+                      Com mais de 6 anos de experiência, contribuo direta e indiretamente para o desenvolvimento e aprimoramento de sistemas que atendem a mais de 30 negócios, com alto fluxo de acessos diários. Atuo com tecnologias como <b> Node.js, Express.js, PHP/Laravel, React.js, Angular, Vue.js, PostgreSQL, MongoDB, Docker e AWS.  </b>
                     </p>
                   ),
                 },
@@ -77,15 +77,17 @@ function App() {
                       <i>Fully Ecosystem, Remoto</i>
                       <p>
                         <ul>
-                          <li style={{marginRight: "10vh"}}>Trabalho no desenvolvimento e manutenção de microsserviços usando NestJS e bancos de dados como MongoDB e PostgreSQL.</li>
+                          <li style={{marginRight: "10vh"}}>Trabalho no desenvolvimento e manutenção de microsserviços usando NestJS e Spring Boot no Backend e bancos de dados como MongoDB e PostgreSQL.</li>
                           <li>Participo ativamente de cerimônias do Scrum, incluindo sessões de planejamento e revisões de código.</li> 
-                          <li>Dou suporte a desenvolvedores juniores, contribuo com a análise e resolução de bugs e utilizo o AWS CloudWatch para monitoramento e observabilidade de nossos microsserviços não orquestrados.</li>
+                          <li>Dou suporte a desenvolvedores juniores, contribuo com a análise e resolução de bugs e utilizo o AWS CloudWatch para monitoramento e observabilidade de nossos microsserviços.</li>
                         </ul>
                       </p>
                       <b>Tecnologias usadas:</b>
                       <p>
                         <ul>
-                          <li>NestJs</li> 
+                          <li>NestJs</li>
+                          <li>Kotlin</li>
+                          <li>Spring Boot</li> 
                           <li>MongoDB</li>
                           <li>PostgreSQL</li>
                           <li>AWS ECS</li>
@@ -406,9 +408,6 @@ function App() {
               <h3>
                 Linkedin
               </h3>
-              <span>
-                <a href="https://www.linkedin.com/in/deivid-almeida/" target="_blank" rel="noreferrer">https://www.linkedin.com/in/deivid-almeida/</a>
-              </span>
               <h3>
                 GitHub
               </h3>
@@ -426,17 +425,17 @@ function App() {
               </h2>
               <p>
                 <ul className="skills">
-                  <li className="node">Node.js <span>5+ anos</span></li>
-                  <li className="express">Express <span>5+ anos</span></li>
+                  <li className="node">Node.js <span>6+ anos</span></li>
+                  <li className="express">Express <span>6+ anos</span></li>
                   <li className="react">React <span>5+ anos</span></li>
+                  <li className="mongodb">MongoDB <span>4+ anos</span></li>
+                  <li className="postgresql">PostgreSQL <span>4+ anos</span></li>
+                  <li className="aws">AWS <span>4+ anos</span></li>
                   <li className="angular">Angular <span>4+ anos</span></li>
                   <li className="mysql">MySQL <span>4+ anos</span></li>
+                  <li className="php">PHP <span>4+ anos</span></li>
+                  <li className="laravel">Laravel <span>3+ anos</span></li>
                   <li className="vue">Vue <span>3+ anos</span></li>
-                  <li className="php">PHP <span>3+ anos</span></li>
-                  <li className="mongodb">MongoDB <span>3+ anos</span></li>
-                  <li className="postgresql">PostgreSQL <span>3+ anos</span></li>
-                  <li className="aws">AWS <span>3+ anos</span></li>
-                  <li className="laravel">Laravel <span>2+ anos</span></li>
                   <li className="react-native">React Native <span>2+ anos</span></li>
                 </ul>
               </p>
