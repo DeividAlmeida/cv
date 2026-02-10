@@ -428,6 +428,7 @@ function App() {
                 </ul>
               </p>
             </p>
+            <br/>
             <p className="profile">
               <h2>
                 <center style={{
