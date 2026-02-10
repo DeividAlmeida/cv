@@ -78,7 +78,11 @@ function App() {
                       <p>
                         <ul>
                           <li style={{marginRight: "10vh"}}>Trabalho no desenvolvimento e manutenção de microsserviços usando NestJS e Spring Boot no Backend e bancos de dados como MongoDB e PostgreSQL.</li>
-                          <li>Participo ativamente de cerimônias do Scrum, incluindo sessões de planejamento e revisões de código.</li> 
+                          <li>Participo ativamente de cerimônias do Scrum, incluindo sessões de planejamento e revisões de código.</li>
+                          <li>Desenvolvimento de aggregation pipelines complexos, otimização de queries, criação de índices e melhoria de performance para grandes volumes de dados</li>
+                          <li>Implementação de cache para otimização de performance, redução de carga no banco de dados e melhoria do tempo de resposta das APIs</li>
+                          <li>Aplicação de transações de banco de dados seguindo princípios ACID para garantir consistência, integridade e confiabilidade em sistemas críticos.</li>
+                          <li>Desenvolvimento de testes automatizados seguindo Test-Driven Development para garantir qualidade, confiabilidade e manutenibilidade do código.</li>
                           <li>Dou suporte a desenvolvedores juniores, contribuo com a análise e resolução de bugs e utilizo a AWS CloudWatch para monitoramento e observabilidade de nossos microsserviços.</li>
                         </ul>
                       </p>
@@ -98,6 +102,7 @@ function App() {
                           <li>Jenkins</li> 
                           <li>Redis</li> 
                           <li>TypeScript</li>
+                          <li>TypeORM</li>
                           <li>Git</li>
                         </ul>
                       </p>
@@ -149,7 +154,10 @@ function App() {
                           <li>Levantamento dos requisitos de softwares, buscando entender as necessidades operacionais dos clientes para projetar programas que realizassem atividades e comandos específicos.</li>
                           <li>Refatoração de códigos-fonte existentes, realizando as correções necessárias em decorrência do surgimento de falhas e novos requisitos, sem alterar as funcionalidades do software.</li>
                           <li>Responsável pelo desenvolvimento back-end de uma aplicação web, criando códigos que possibilitassem que as funções de sites e aplicativos pudessem ser executadas.</li>
+                          <li>Implementação de cache para otimização de performance, redução de carga no banco de dados e melhoria do tempo de resposta das APIs</li>
                           <li>Desenvolvimento front-end de aplicações web, elaborando a interface de páginas.</li>
+                          <li>Desenvolvimento de aggregation pipelines complexos, otimização de queries, criação de índices e melhoria de performance para grandes volumes de dados</li>
+                          <li>Desenvolvimento de testes automatizados seguindo Test-Driven Development para garantir qualidade, confiabilidade e manutenibilidade do código.</li>
                           <li>Utilização de sistemas de controle de versão para gerir arquivos de projetos armazenados em repositórios, monitorando registros e alterações em códigos-fonte de projetos de software.</li>
                         </ul>
                       </p>
@@ -185,6 +193,7 @@ function App() {
                           <li>Refatoração de códigos-fonte existentes, realizando as correções necessárias em decorrência do surgimento de falhas e novos requisitos, sem alterar as funcionalidades do software.</li>
                           <li>Responsável pelo desenvolvimento back-end de uma aplicação web, criando códigos que possibilitassem que as funções de sites e aplicativos pudessem ser executadas.</li>
                           <li>Desenvolvimento front-end de aplicações web, elaborando a interface de páginas.</li>
+                          <li>Otimização de queries, criação de índices e melhoria de performance para grandes volumes de dados</li>
                           <li>Utilização de sistemas de controle de versão para gerir arquivos de projetos armazenados em repositórios, monitorando registros e alterações em códigos-fonte de projetos de software.</li>
                         </ul>
                       </p>
@@ -215,6 +224,7 @@ function App() {
                           <li>Refatoração de códigos-fonte existentes, realizando as correções necessárias em decorrência do surgimento de falhas e novos requisitos, sem alterar as funcionalidades do software.</li>
                           <li>Responsável pelo desenvolvimento back-end de uma aplicação web, criando códigos que possibilitassem que as funções de sites e aplicativos pudessem ser executadas.</li>
                           <li>Desenvolvimento front-end de aplicações web, elaborando a interface de páginas.</li>
+                          <li>Otimização de queries, criação de índices e melhoria de performance para grandes volumes de dados</li>
                           <li>Utilização de sistemas de controle de versão para gerir arquivos de projetos armazenados em repositórios, monitorando registros e alterações em códigos-fonte de projetos de software.</li>
                         </ul>
                       </p>
@@ -244,6 +254,7 @@ function App() {
                           <li>Refatoração de códigos-fonte existentes, realizando as correções necessárias em decorrência do surgimento de falhas e novos requisitos, sem alterar as funcionalidades do software.</li>
                           <li>Responsável pelo desenvolvimento back-end de uma aplicação web, criando códigos que possibilitassem que as funções de sites e aplicativos pudessem ser executadas.</li>
                           <li>Desenvolvimento front-end de aplicações web, elaborando a interface de páginas.</li>
+                          <li>Otimização de queries, criação de índices e melhoria de performance para grandes volumes de dados</li>
                           <li>Utilização de sistemas de controle de versão para gerir arquivos de projetos armazenados em repositórios, monitorando registros e alterações em códigos-fonte de projetos de software.</li>
                         </ul>
                       </p>
@@ -272,6 +283,7 @@ function App() {
                           <li>Refatoração de códigos-fonte existentes, realizando as correções necessárias em decorrência do surgimento de falhas e novos requisitos, sem alterar as funcionalidades do software.</li>
                           <li>Responsável pelo desenvolvimento back-end de uma aplicação web, criando códigos que possibilitassem que as funções de sites e aplicativos pudessem ser executadas.</li>
                           <li>Desenvolvimento front-end de aplicações web, elaborando a interface de páginas.</li>
+                          <li>Otimização de queries, criação de índices e melhoria de performance para grandes volumes de dados</li>
                           <li>Utilização de sistemas de controle de versão para gerir arquivos de projetos armazenados em repositórios, monitorando registros e alterações em códigos-fonte de projetos de software.</li>
                         </ul>
                       </p>
